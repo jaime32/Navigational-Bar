@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(122, 155, 245)
+}
+
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDVbOoYdvo_TNYFR4QoDch3iAryBbIris7rgOI07RRb4UJe-ZQ") 
+}
+
+body{
+    background-size: 100px 100px;
+}
+
+h1{
+    background-color: rgb(155, 41, 41)
+}
+
+h1{
+    color: rgb(131, 221, 49)
+}
+
+div{
+    background-color: rgb(93, 221, 255, 0)
+}
+
+p{
+    background-color: rgb(219, 219, 233)
+}
+
+p{
+    color: rgba(245, 12, 12, 0.774)
+}
+
+h2{
+    background-color: crimson
+}
